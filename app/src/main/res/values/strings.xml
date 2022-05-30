@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="signin_into_your">SignIn into Your</string>
+    <string name="account">Account</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="email_tv">Email</string>
+    <string name="i_agreed_with">I agreed with</string>
+    <string name="term_and_condition"><u>term and condition</u></string>
+    <string name="facebook_app_id">1555264618234700</string>
+    <string name="facebook_client_token">c7d5391dad04f9266dcc152a1165d8d1</string>
+    <string name="facebook_loigin_protocol_scheme">c7d5391dad04f9266dcc152a1165d8d1</string>
+</resources>

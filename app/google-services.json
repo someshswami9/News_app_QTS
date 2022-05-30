@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840714858524",
+    "project_id": "news-app-ac5e3",
+    "storage_bucket": "news-app-ac5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840714858524:android:ce297e53e727cf1dde2fd9",
+        "android_client_info": {
+          "package_name": "com.quantomitsolutions.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840714858524-ldke67evgn31bmek09hf51h70esaq3u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quantomitsolutions.newsapp",
+            "certificate_hash": "4a5f3bef7d402509e2c660c870de6347cbb0cc22"
+          }
+        },
+        {
+          "client_id": "840714858524-lnnhhspop9gvjo9ah48aevq93oub5dp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJK4Li7Bdl6r7qNz42sdSTciuG7RfFvhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840714858524-lnnhhspop9gvjo9ah48aevq93oub5dp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
